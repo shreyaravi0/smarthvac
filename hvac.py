@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 import pytz
 
 # Constants
-WEATHER_API_KEY = "7a93a3c2d66e9fee6a9a03ff2170ba7e"  # Replace with your actual key
+WEATHER_API_KEY = "03a700771bbd74d0d7c620c9670042f4"  # Replace with your actual key
 ZONES = ["Kitchen", "Bathroom", "Bedroom"]
 INDIAN_CITIES = ["Mumbai", "Delhi", "Bangalore", "Hyderabad", "Chennai", 
                 "Kolkata", "Pune", "Ahmedabad", "Jaipur", "Lucknow"]
